@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+Visit the live application at https://fluttertodoapp.netlify.app/
 
 ## Getting Started
 
